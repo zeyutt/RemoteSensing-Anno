@@ -1,0 +1,14 @@
+# RemoteSensing-Anno
+
+An annotation tool for Remote Sensing images, currently designed for target detection task. If any advice and bug, Please add issue, this tool will be developed in progress.
+Current version:1.9.0
+
+Download Link: https://github.com/zeyutt/RemoteSensing-Anno/releases
+
+The software is designed for own usage. Please feel free to download an EXE to use in Windows.
+Right now only support Windows 7/8/10.
+
+A strict data folder structure is uploaded in "data" folder.
+Also a few pictures and corresponding metadata , annotations have been uploaded.
+
+first tutorial link: https://youtu.be/xpqxRRQNIuI
